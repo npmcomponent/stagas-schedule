@@ -1,0 +1,20 @@
+{
+  "name": "stagas-schedule",
+  "description": "schedule calendar",
+  "version": "0.1.2",
+  "keywords": [
+    "schedule",
+    "calendar"
+  ],
+  "styles": [
+    "icon-font.css",
+    "style.css"
+  ],
+  "dependencies": {
+    "stagas-configurable.js": "git://github.com/npmcomponent/stagas-configurable.js.git",
+    "component-jquery": "git://github.com/npmcomponent/component-jquery.git",
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "component-moment": "git://github.com/npmcomponent/component-moment.git"
+  },
+  "license": "MIT"
+}
